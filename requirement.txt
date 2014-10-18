@@ -1,0 +1,27 @@
+Please do programming of the attachment within 72 hours and reply the source (php file).
+
+ 
+
+Files that you need are all attached.
+
+ 
+
+1.  Access to “geniee-test.html” and get the tittle (<title>this value </title>), then create the program that indicates.
+
+ 
+
+2.  Access to “geniee-test.html” and get all the section of “Name” and “Status” then create the program that can be saved as csv.
+
+ 
+
+3.  Access to “geniee-test.html” and get all the section of “affiliateid” and store them in an array then create the program that indicates.
+
+ 
+
+ex）<a href="affiliate-view.php?affiliateid=15405213"><img
+
+src="http://adiquity.com/app/www/admin/assets/images/view_icon.png"></a>
+
+ 
+
+* Must use simple_html_dom.php.
